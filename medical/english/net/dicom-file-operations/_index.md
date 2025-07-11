@@ -1,6 +1,5 @@
 ---
 title: DICOM File Operations
-type: docs
 weight: 10
 url: /net/dicom-file-operations/
 description: Master DICOM file handling fundamentals including opening, creating, and saving medical imaging files with proper memory management and encoding techniques.

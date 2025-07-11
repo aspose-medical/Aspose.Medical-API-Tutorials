@@ -1,6 +1,5 @@
 ---
 title: Healthcare Data Management
-type: docs
 weight: 30
 url: /net/healthcare-data-management/
 description: Implement secure healthcare data processing including patient anonymization, metadata management, and compliance with medical privacy regulations.

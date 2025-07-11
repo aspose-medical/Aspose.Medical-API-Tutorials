@@ -19,7 +19,7 @@ Many medical imaging projects fail because developers underestimate the complexi
 
 The examples here come from actual hospital IT projects and medical device integrations. Some tutorials focus on handling large imaging datasets efficiently, while others address interoperability between different vendor systems. Error handling gets special attention since medical software bugs can have serious consequences.
 
-## Aspose.Medical for .NET Tutorials
+## [Aspose.Medical for .NET Tutorials](./net/)
 {{% alert color="primary" %}}
 Most code samples work with files from real hospital environments. Testing used data from CT scanners, MRI machines, and digital radiography systems across different manufacturers. Some examples include anonymized patient datasets to demonstrate proper handling of sensitive information.
 {{% /alert %}}
