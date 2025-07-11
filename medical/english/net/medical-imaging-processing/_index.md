@@ -1,6 +1,5 @@
 ---
 title: Medical Imaging Processing
-type: docs
 weight: 20
 url: /net/medical-imaging-processing/
 description: Process medical images with precision using advanced rendering techniques, frame extraction, and pixel manipulation for diagnostic imaging applications.
